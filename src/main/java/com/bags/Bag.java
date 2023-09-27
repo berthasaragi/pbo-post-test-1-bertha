@@ -1,9 +1,9 @@
 package com.bags;
 
 public class Bag {
-    private String jenis;
-    private String merk;
-    private int harga;
+    public String jenis;
+    public String merk;
+    public int harga;
 
 
     public Bag(String jenis, String merk, int harga) {
